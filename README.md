@@ -24,7 +24,7 @@ Built for fun - radiumclient gives you the power of everything.
 | 1.21.1               | v2.3             | [Textures 2.3](https://github.com/user-attachments/files/24934379/radium_textures_1.21.1_2.3.zip) |
 | 1.21.1               | v2.4             | [Textures 2.4](https://github.com/user-attachments/files/24941470/radium_textures_1.21.1_2.4.zip) |
 
-Old versions are stored in **BETA'S\Textures**
+Old versions are stored above
 
 ---
 
