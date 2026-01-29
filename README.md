@@ -16,8 +16,12 @@ Built for fun - radiumclient gives you the power of everything.
 - Regular updates and improvements  
 
 ---
+## 📦 Download Radium
+Got to the [Releases](https://github.com/Mark-609/radiumclient/releases) page for versions of **Radium client**
 
-## Recource Packs (Just for fun)
+---
+
+## 🎨 Recource Packs (Just for fun)
 
 | **Minecraft Version** | **Pack Version** | **Download** |
 |-----------------------|------------------|--------------|
